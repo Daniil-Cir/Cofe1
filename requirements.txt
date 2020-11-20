@@ -1,0 +1,3 @@
+PyQt5==12.8.1
+sys
+sqlite3
